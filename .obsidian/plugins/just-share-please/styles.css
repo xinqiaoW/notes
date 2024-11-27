@@ -1,0 +1,27 @@
+.just-share-please-support {
+    max-width: 50%;
+    width: 400px;
+    height: auto;
+}
+
+.just-share-please-view .clickable-icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+
+.just-share-please-shared-name {
+    display: block;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.just-share-please-shared-path {
+    display: block;
+    padding-bottom: 5px;
+    font-size: 13px;
+}
+
+.just-share-please-shared-item {
+    margin-bottom: 20px;
+}
