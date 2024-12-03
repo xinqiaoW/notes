@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/467sg0fv#khQZTL8R/bUV0biS6TM5TVhSV/PnhbijXDtMfEQB1wE
+share_updated: 2024-12-03T13:03:45+08:00
+---
 **主要内容** 我实现了VGG块。VGG块帮助我们更有条理地组织卷积神经网络的架构，由若干卷积层和一个最大池化层组成一个VGG块。NiN块包含两层1 * 1卷积，相当于两个受限的全连接层。NiN在ImageNet上取得了比AlexNet更好的效果，可以看出，**深且窄的效果更好**。
 
 - 代码：

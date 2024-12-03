@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/2zl0gp9r#eS1eYWdr5rHk/TRGyGcHg+3URar8lsITnrpRdEjP5Hw
+share_updated: 2024-12-03T13:00:26+08:00
+---
 **主要内容** 我实现了单机多gpu的训练。
 
 - 代码部分：

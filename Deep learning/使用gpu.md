@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/frnu7eew#dTJVJeLkwbV6SWZXVZIzPAvPgJQdXG0M06MLSHrPQmY
+share_updated: 2024-12-03T13:03:13+08:00
+---
 **主要内容** 我熟悉了有关如何将数据移动到gpu以及选择device的一些基本操作，gpu的运算只能在同一块gpu上运行，因为不同gpu之间的传输是比较慢的，所以避免跨gpu运算。
 
 - 代码部分：

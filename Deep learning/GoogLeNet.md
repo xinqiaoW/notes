@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/7l94tk8v#IEvNXUyKAz32GrFCEs1gyKeH1l/ZuWV2r8C7Pj4kNbI
+share_updated: 2024-12-03T13:03:30+08:00
+---
 **主要内容** GoogLeNet通过Inception块将多种操作融合在一起，由机器学习合适的操作，不用人去思考哪种操作更好。为了保证模型的复杂度不过高，对于核尺寸大的卷积层，我们往往选择更小的通道数。
 
 - 代码部分：

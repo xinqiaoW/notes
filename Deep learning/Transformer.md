@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/7fy8b3m5#fKMa1iPTmCZF/+TP3OHIouSvmacrLbuPNbIa++46ec4
+share_updated: 2024-12-03T13:03:36+08:00
+---
 ![[Pasted image 20241030210231.png]]
 - 批量归一化 和 层归一化：
 	批量归一化是对特征进行归一化，层归一化是对样本归一化。二者都可以引入随机性，具备正则效果，同时可以令求解函数变得平缓，有利于收敛。

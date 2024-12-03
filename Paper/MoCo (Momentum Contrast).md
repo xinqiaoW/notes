@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/f1f9w6n2#MEnT/BzPJH3Qwt8w9X6uQF86dvDdrCCQr0tyHIqPoG0
+share_updated: 2024-12-03T13:03:51+08:00
+---
 [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722)
 
 - 对比学习：将一系列元素通过网络（特征提取函数 $f$ ），得到特征表达。我们希望相似的元素的特征在特征空间中距离更近，而不相似的元素的特征在特征空间距离更远。如果我们学到了一个特征提取函数 $f$ 可以很好地满足这个要求，那么这个 $f$ 在一定程度上可以提取出一张图片区别于其他图片的特征。

@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/rysc7q41#kjqmXaR1Fh589hCUVOD3nGDDlFkFjFul31yH0w5jhbg
+share_updated: 2024-12-03T13:03:49+08:00
+---
 [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/pdf/2111.06377)
 
 

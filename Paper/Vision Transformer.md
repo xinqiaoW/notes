@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/va4vitww#4W3MT40X3iCETVIToRYAfYyrKIJHGBN/cVXwDo7X+a8
+share_updated: 2024-12-03T13:04:05+08:00
+---
 [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://arxiv.org/pdf/2010.11929)
 
 

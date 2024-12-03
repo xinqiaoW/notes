@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/3x8whv8e#2/OnflvNs8ah9iwTGMXV5O/jhZHX805jSXEyxTSKauw
+share_updated: 2024-12-03T13:03:51+08:00
+---
 [End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872)
 
 研究目的：DETR（DEtection TRansformer）首次比较好地建立了一个 End - to - End 的目标检测模型，可以不需要人工的复杂设计，简单地解决目标检测任务，而且效果不错，有利于后续的研究。

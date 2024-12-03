@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/xi8jlrjq#M2xYzMx4JfAIrft2z83Q6w2FmTziFzgLwqXpC8d82VM
+share_updated: 2024-12-03T13:04:09+08:00
+---
 **研究动机：** ViT 只进行了分类任务，那么 Transformer 能否运用到其他视觉任务中呢？Swin Transformer 针对 ViT 的下面两个主要问题进行了改进，从 CNN 中获得大量灵感，提出了一种层级式的 ViT：
 	1 - 没有多尺度特征：
 		ViT 并没有提供多尺度特征，使得 ViT 可能在密集型预测任务中效果并不好。

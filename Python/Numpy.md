@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/24qme0w2#W2j8AJImlGEWEPRY1r0thvG8yaZ/97ywCHV60my6fzU
+share_updated: 2024-12-03T13:04:15+08:00
+---
 - np.flatnonzero()：方便的获得索引
 - ![[Pasted image 20241116133322.png]]
 - ![[Pasted image 20241116141254.png]]

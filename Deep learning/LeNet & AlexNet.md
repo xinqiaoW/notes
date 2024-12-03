@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/4nswee1f#XJdvVnV7rTSAox0ZKdYaPpNqW818IIRYqh2R83CQlcM
+share_updated: 2024-12-03T13:03:34+08:00
+---
 **疑问**  为什么代码第四步中我们有net.eval()的操作？因为我们在评估模型，而不是训练模型。
 
 **主要内容** 我实现了LeNet，学习了用GPU进行训练，并在fashion_mnist上进行了训练，观察训练结果。我们用 for layer in Net 遍历网络的每一层，从而观察输出，检查是否出现错误。

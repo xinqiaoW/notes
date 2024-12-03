@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/v1ba0gfl#26CEmT382k7xXQ/eqm48XjI92j6PDVRLodTa/hfuXLU
+share_updated: 2024-12-03T13:04:06+08:00
+---
 [GNN](https://distill.pub/2021/gnn-intro/)
 - 图的四要素：
 	点、边、全局、连接信息。

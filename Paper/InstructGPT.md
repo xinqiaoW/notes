@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/7fr0kxug#ERkLDE5R7r7Latducv2R6c0OCaa52MbdIlU14jNv8yo
+share_updated: 2024-12-03T13:04:09+08:00
+---
 [training language models to follow instructions with human feedback](chrome-extension://bnjoienjhhclcabnkbhhfndecoipmcdg/background/jgpdf/layout/index.html?file=https://arxiv.org/pdf/2203.02155)
 RLHF：基于人类反馈·的·强化学习。
 1）利用人类标注的数据作微调，得到 SFT （Supervised Fine - Tuning  Model）、

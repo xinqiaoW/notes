@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/1pj1ptk2#q18zKrcT0OHheQzG7epdtq3zUrGQ5utqNGyrdq6A9D0
+share_updated: 2024-12-03T13:03:47+08:00
+---
 [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661)
 
 生成对抗网络分为两部分，判别器（discriminator）和生成器（generator）。生成器的目标是生成内容，使得判别器无法分辨该内容是源于真实数据还是生成器生成的虚假数据。判别器的目标是尽可能成功地分辨数据是真是假。
