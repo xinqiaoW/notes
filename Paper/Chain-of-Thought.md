@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/u5sms29l#bvNnHsq4rJNxSqlcaf6XjFD1oHuDvzL4CCgnongF2rI
+share_updated: 2024-12-03T13:03:35+08:00
+---
 ZERO-SHOT：不给模型例子，直接让模型接受输入并输出
 FEW-SHOT：在要求模型解决问题之前，我们可以先给模型一些例子，再让模型去输出结果。
 

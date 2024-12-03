@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/ajmpdl40#8qWOviYCM13K6eIpa8woK36Q9pVWHL1RBmYTWRNfGdc
+share_updated: 2024-12-03T13:03:22+08:00
+---
 **主要内容** 我实现了 BERT 的预训练模型。
 
 BERT主体是一个 Transformer 的编码器（不同的是，BERT的位置编码需要自己学习），BERT 的目的是提供给一个很好的文本特征提取器，从而便于 NLP 任务的迁移学习。

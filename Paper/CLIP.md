@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/6yaykt9x#JfKlaTEV8LkPFdP3gJdMfv7JhOsLxTNgFnCDBhmKv+8
+share_updated: 2024-12-03T13:03:46+08:00
+---
 CLIP 提出在超大规模数据集上，用文本监督信号，通过对比学习来训练一个超大模型，能够很好地提取文本和图像特征，并形成文本特征和图像特征的对应，为多模态的工作做了铺垫。
 
 混精度训练：
